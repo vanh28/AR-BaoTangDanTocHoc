@@ -1,21 +1,13 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Image/museum.jpg.meta
 guid: c478d08d38fd68f4da2d370fa2fb2209
-========
-guid: b900a745cfa24cb48b7e50457028a2f8
->>>>>>>> 5c475065ea3e992d9ae1c28fbc67af1ca84a9304:Assets/BuildReport/GUI/BRTSkin/IconInvalid.png.meta
 TextureImporter:
-  fileIDToRecycleName: {}
+  internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
-<<<<<<<< HEAD:Assets/Image/museum.jpg.meta
     sRGBTexture: 1
-========
-    sRGBTexture: 0
->>>>>>>> 5c475065ea3e992d9ae1c28fbc67af1ca84a9304:Assets/BuildReport/GUI/BRTSkin/IconInvalid.png.meta
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -28,16 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-<<<<<<<< HEAD:Assets/Image/museum.jpg.meta
     flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
   ignoreMipmapLimit: 0
-========
-  isReadable: 0
->>>>>>>> 5c475065ea3e992d9ae1c28fbc67af1ca84a9304:Assets/BuildReport/GUI/BRTSkin/IconInvalid.png.meta
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -46,19 +34,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 1
     aniso: 1
-<<<<<<<< HEAD:Assets/Image/museum.jpg.meta
     mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 0
-========
-    mipBias: -1
-    wrapU: 1
-    wrapV: 1
-    wrapW: -1
->>>>>>>> 5c475065ea3e992d9ae1c28fbc67af1ca84a9304:Assets/BuildReport/GUI/BRTSkin/IconInvalid.png.meta
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -73,59 +54,63 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-<<<<<<<< HEAD:Assets/Image/museum.jpg.meta
   textureType: 8
-========
-  textureType: 2
->>>>>>>> 5c475065ea3e992d9ae1c28fbc67af1ca84a9304:Assets/BuildReport/GUI/BRTSkin/IconInvalid.png.meta
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 2
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-<<<<<<<< HEAD:Assets/Image/museum.jpg.meta
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 1024
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 52
-    textureCompression: 1
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-========
->>>>>>>> 5c475065ea3e992d9ae1c28fbc67af1ca84a9304:Assets/BuildReport/GUI/BRTSkin/IconInvalid.png.meta
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
     outline: []
     physicsShape: []
-<<<<<<<< HEAD:Assets/Image/museum.jpg.meta
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
@@ -137,9 +122,6 @@ TextureImporter:
     nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-========
-  spritePackingTag: 
->>>>>>>> 5c475065ea3e992d9ae1c28fbc67af1ca84a9304:Assets/BuildReport/GUI/BRTSkin/IconInvalid.png.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 
