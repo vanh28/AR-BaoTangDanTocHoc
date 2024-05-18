@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/Main Menu.unity.meta
 guid: abcfb81a05d1f244291caeefe6640091
+========
+guid: 13a482ba4833cff4aaccee9b9e1c3fe6
+folderAsset: yes
+>>>>>>>> 5c475065ea3e992d9ae1c28fbc67af1ca84a9304:Assets/BuildReport/Scripts/Editor/MiniJSON.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
