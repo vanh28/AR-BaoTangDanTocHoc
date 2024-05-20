@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.44402242, g: 0.49316543, b: 0.5722324, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -870,7 +870,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5be3e88e1fc4f1f49a88d23994c9f171, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 3bf0456dca991f44cb2d33fbd641f937, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -1861,7 +1861,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Day la xe cho do
+  m_text: "Xe ch\u1EDF \u0111\xF3 l\xE0 m\u1ED9t ph\u01B0\u01A1ng ti\u1EC7n v\xE0
+    d\u1EE5ng c\u1EE5 truy\u1EC1n th\u1ED1ng \u0111\u01B0\u1EE3c s\u1EED d\u1EE5ng
+    ph\u1ED5 bi\u1EBFn t\u1EA1i c\xE1c v\xF9ng n\xF4ng th\xF4n \u0111\u1ED3ng b\u1EB1ng
+    B\u1EAFc B\u1ED9, Vi\u1EC7t Nam, \u0111\u1EB7c bi\u1EC7t trong b\u1ED1i c\u1EA3nh
+    tr\u01B0ng b\xE0y v\u0103n h\xF3a c\u1EE7a ng\u01B0\u1EDDi Vi\u1EC7t. L\xE0m
+    t\u1EEB tre v\xE0 g\u1ED7, xe ch\u1EDF \u0111\xF3 c\xF3 k\u1EBFt c\u1EA5u \u0111\u01A1n
+    gi\u1EA3n nh\u01B0ng ch\u1EAFc ch\u1EAFn, v\u1EDBi c\xE1c b\u1ED9 ph\u1EADn nh\u01B0
+    khung xe, b\xE1nh xe, v\xE0 tay k\xE9o. Thi\u1EBFt k\u1EBF c\u1EE7a xe ph\xF9
+    h\u1EE3p \u0111\u1EC3 ch\u1EE9a \u0111\u1EF1ng v\xE0 v\u1EADn chuy\u1EC3n nhi\u1EC1u
+    c\xE1i \u0111\xF3 (m\u1ED9t lo\u1EA1i d\u1EE5ng c\u1EE5 b\u1EAFt c\xE1) c\xF9ng
+    m\u1ED9t l\xFAc, gi\xFAp ng\u01B0\u1EDDi n\xF4ng d\xE2n d\u1EC5 d\xE0ng di chuy\u1EC3n
+    t\u1EEB n\u01A1i n\xE0y sang n\u01A1i kh\xE1c. Xe th\u01B0\u1EDDng \u0111\u01B0\u1EE3c
+    k\xE9o ho\u1EB7c \u0111\u1EA9y b\u1EB1ng tay, \u0111\xF4i khi c\xF3 th\u1EC3
+    \u0111\u01B0\u1EE3c k\xE9o b\u1EDFi gia s\xFAc nh\u01B0 tr\xE2u ho\u1EB7c b\xF2. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1895,7 +1908,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -2619,7 +2632,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5be3e88e1fc4f1f49a88d23994c9f171, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 6f2d3ef676172e442b946316e12d6afd, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -3573,7 +3586,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Day la Khung Cui
+  m_text: "Khung c\u1EEDi l\xE0 m\u1ED9t c\xF4ng c\u1EE5 truy\u1EC1n th\u1ED1ng \u0111\u01B0\u1EE3c
+    s\u1EED d\u1EE5ng \u0111\u1EC3 d\u1EC7t v\u1EA3i, th\u01B0\u1EDDng th\u1EA5y
+    trong c\xE1c l\xE0ng ngh\u1EC1 d\u1EC7t l\u1EE5a, d\u1EC7t v\u1EA3i \u1EDF Vi\u1EC7t
+    Nam. \u0110\u01B0\u1EE3c l\xE0m t\u1EEB g\u1ED7, khung c\u1EEDi n\xE0y th\u1EC3
+    hi\u1EC7n s\u1EF1 kh\xE9o l\xE9o v\xE0 tinh t\u1EBF c\u1EE7a ng\u01B0\u1EDDi
+    th\u1EE3 th\u1EE7 c\xF4ng. C\u1EA5u tr\xFAc c\u1EE7a n\xF3 bao g\u1ED3m nhi\u1EC1u
+    b\u1ED9 ph\u1EADn nh\u01B0 khung ch\xEDnh, c\xE1c thanh d\u1ECDc, thanh ngang,
+    v\xE0 c\xE1c b\xE1nh xe nh\u1ECF \u0111\u1EC3 \u0111i\u1EC1u ch\u1EC9nh \u0111\u1ED9
+    c\u0103ng c\u1EE7a s\u1EE3i. Ph\u1EA7n tr\xEAn c\u1EE7a khung c\u1EEDi \u0111\u01B0\u1EE3c
+    ch\u1EA1m kh\u1EAFc hoa v\u0103n t\u1EC9 m\u1EC9, v\u1EEBa mang t\xEDnh th\u1EA9m
+    m\u1EF9 cao v\u1EEBa ph\u1EA3n \xE1nh ngh\u1EC7 thu\u1EADt truy\u1EC1n th\u1ED1ng
+    \u0111\u1ED9c \u0111\xE1o c\u1EE7a d\xE2n t\u1ED9c. \u0110\xE2y l\xE0 n\u01A1i
+    ng\u01B0\u1EDDi th\u1EE3 ng\u1ED3i v\xE0 th\u1EF1c hi\u1EC7n c\xE1c thao t\xE1c
+    d\u1EC7t, t\u1EA1o ra c\xE1c t\u1EA5m v\u1EA3i."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3607,7 +3633,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -5400,7 +5426,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Day la nha Kon Tum
+  m_text: "Nh\xE0 R\xF4ng l\xE0 m\u1ED9t ki\u1EC3u nh\xE0 s\xE0n \u0111\u1EB7c tr\u01B0ng,
+    \u0111\xE2y l\xE0 ng\xF4i nh\xE0 c\u1ED9ng \u0111\u1ED3ng, nh\u01B0 \u0111\xECnh
+    l\xE0ng c\u1EE7a ng\u01B0\u1EDDi Kinh, d\xF9ng l\xE0m n\u01A1i t\u1EE5 h\u1ECDp,
+    trao \u0111\u1ED5i, th\u1EA3o lu\u1EADn c\u1EE7a d\xE2n l\xE0ng trong c\xE1c
+    bu\xF4n l\xE0ng tr\xEAn T\xE2y Nguy\xEAn, ho\u1EB7c c\xF2n l\xE0 n\u01A1i \u0111\xF3n
+    kh\xE1ch (theo phong t\u1EE5c ng\u01B0\u1EDDi Ba Na), d\xF9 kh\xE1ch ri\xEAng
+    c\u1EE7a gia \u0111\xECnh hay chung c\u1EE7a l\xE0ng.Nh\xE0 R\xF4ng \u0111\u01B0\u1EE3c
+    x\xE2y d\u1EF1ng ch\u1EE7 y\u1EBFu b\u1EB1ng c\xE1c v\u1EADt li\u1EC7u c\u1EE7a
+    ch\xEDnh n\xFAi r\u1EEBng T\xE2y Nguy\xEAn nh\u01B0 c\u1ECF tranh, tre, g\u1ED7,
+    l\u1ED3 \xF4... v\xE0 \u0111\u01B0\u1EE3c x\xE2y c\u1EA5t tr\xEAn m\u1ED9t kho\u1EA3ng
+    \u0111\u1EA5t r\u1ED9ng, n\u1EB1m ngay t\u1EA1i khu v\u1EF1c trung t\xE2m c\u1EE7a
+    bu\xF4n.\rNh\xE0 R\xF4ng c\u1EE7a m\u1ED7i d\xE2n t\u1ED9c \u0111\u1EC1u c\xF3
+    nh\u1EEFng n\xE9t ri\xEAng trong ki\u1EBFn tr\xFAc, t\u1EA1o d\xE1ng, trang tr\xED
+    hoa v\u0103n. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5434,7 +5473,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -5752,18 +5791,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Nh\xE0 G\u01B0\u01A1l l\xE0 lo\u1EA1i nh\xE0 truy\u1EC1n th\u1ED1ng c\u1EE7a
-    m\u1ED9t s\u1ED1 d\xE2n t\u1ED9c \u1EDF T\xE2y Nguy\xEAn v\xE0 mi\u1EC1n Trung
-    Vi\u1EC7t Nam, nh\u01B0 ng\u01B0\u1EDDi C\u01A1 Tu. Nh\xE0 G\u01B0\u01A1l c\u1EE7a
-    ng\u01B0\u1EDDi C\u01A1 Tu g\u1EA7n gi\u1ED1ng nh\xE0 s\xE0n c\u1EE7a ng\u01B0\u1EDDi
-    C\u01A1tu nh\u01B0ng \u0111\u01B0\u1EE3c ch\u1EA1m kh\u1EAFc c\xF4ng phu h\u01A1n.
-    Ph\xEDa tr\xEAn hai \u0111\u1EA7u nh\xE0 G\u01B0\u01A1l th\u01B0\u1EDDng \u0111\u01B0\u1EE3c
-    ch\u1EA1m, kh\u1EAFc h\xECnh g\xE0 tr\u1ED1ng ho\u1EB7c hai \u0111\u1EA7u tr\xE2u
-    nh\xF4 s\u1EEBng l\xEAn \u0111\u1ED1i di\u1EC7n. B\xEAn trong \u0111\u01B0\u1EE3c
-    ch\u1EA1m c\xE1c h\xECnh \u1EA3nh r\u1EA5t \u0111\u1ED9c \u0111\xE1o, mang nh\u1EEFng
-    n\xE9t v\u0103n h\xF3a ri\xEAng c\u1EE7a ng\u01B0\u1EDDi C\u01A1 Tu, nh\u01B0:
-    h\xECnh \u1EA3nh c\xE1c ch\xE0ng trai, thi\u1EBFu n\u1EEF C\u01A1 Tu m\xFAa c\u1ED3ng
-    chi\xEAng, s\u0103n b\u1EAFt th\xFA r\u1EEBng."
+  m_text: "Nh\xE0 \u1EDF c\u1EE7a ng\u01B0\u1EDDi C\u01A1 tu \u0111\u01B0\u1EE3c
+    g\u1ECDi l\xE0 GuG\u01B0\u01A1l l\xE0 lo\u1EA1i h\xECnh ki\u1EBFn tr\xFAc \u0111\u1ED9c
+    \u0111\xE1o, l\xE0 s\u1EA3n ph\u1EA9m v\u0103n ho\xE1 \u0111\xE3 \u0111\u01B0\u1EE3c
+    \u0111\u1ED3ng b\xE0o d\xE2n t\u1ED9c C\u01A1tu v\xF9ng n\xFAi t\u1EC9nh Qu\u1EA3ng
+    Nam s\xE1ng t\u1EA1o t\u1EEB l\xE2u \u0111\u1EDDi m\xE0 n\xF3 c\xF2n mang s\u1EAFc
+    th\xE1i \u0111\u1EB7c th\xF9 l\xE3nh th\u1ED5 r\u1EA5t r\xF5 r\u1EC7t c\u1EE7a
+    c\u1ED9ng \u0111\u1ED3ng C\u01A1tu. G\u01B0\u01A1l g\u1EAFn v\u1EDBi c\u1ED3ng
+    chi\xEAng, nh\u1EEFng \u0111i\u1EC7u m\xFAa tung tung-da d\xE1, nh\u1EEFng \u0111\xEAm
+    h\xE1t l\xFD c\u1EE7a ng\u01B0\u1EDDi C\u01A1tu. G\u01B0\u01A1l(ng\xF4i nh\xE0
+    l\xE0ng truy\u1EC1n th\u1ED1ng) l\xE0 m\u1ED9t c\xE1i g\xEC \u0111\xF3 thi\xEAng
+    li\xEAng cao qu\xED v\xE0 r\u1EA5t d\xF5i th\xE2n th\u01B0\u01A1ng kh\xF4ng th\u1EC3
+    thi\u1EBFu trong \u0111\u1EDDi s\u1ED1ng v\u0103n ho\xE1-x\xE3 h\u1ED9i v\xE0
+    tinh th\u1EA7n c\u1EE7a ng\u01B0\u1EDDi C\u01A1tu tr\xEAn v\xF9ng Tr\u01B0\u1EDDng
+    S\u01A1n bao la v\xE0 r\u1ED9ng l\u1EDBn n\xE0y. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5797,7 +5838,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -7014,7 +7055,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0110\xE2y l\xE0 nh\xE0 m\u1ED3 Giarai"
+  m_text: "Nh\xE0 m\u1ED3 c\u1EE7a ng\u01B0\u1EDDi Gia Rai l\xE0 m\u1ED9t ph\u1EA7n
+    quan tr\u1ECDng c\u1EE7a v\u0103n h\xF3a t\xE2m linh v\xE0 truy\u1EC1n th\u1ED1ng
+    c\u1EE7a c\xE1c d\xE2n t\u1ED9c \u1EDF T\xE2y Nguy\xEAn, Vi\u1EC7t Nam. \u0110\xE2y
+    l\xE0 nh\u1EEFng c\xF4ng tr\xECnh ki\u1EBFn tr\xFAc v\xE0 \u0111i\xEAu kh\u1EAFc
+    \u0111\u1ED9c \u0111\xE1o, th\u1EC3 hi\u1EC7n qua c\xE1c b\u1EE9c t\u01B0\u1EE3ng
+    g\u1ED7 \u0111\u01B0\u1EE3c d\u1EF1ng xung quanh ng\xF4i nh\xE0 m\u1ED3, l\xE0
+    trung t\xE2m c\u1EE7a nghi l\u1EC5 b\u1ECF m\u1EA3. Trong qu\xE1 tr\xECnh chu\u1EA9n
+    b\u1ECB cho l\u1EC5 b\u1ECF m\u1EA3, ng\u01B0\u1EDDi Gia Rai s\u1EBD v\xE0o r\u1EEBng
+    \u0111\u1EC3 ch\u1ECDn l\u1EA5y g\u1ED7 t\u1ED1t nh\u1EA5t. Nh\u1EEFng ng\xF4i
+    nh\xE0 m\u1ED3 sau \u0111\xF3 \u0111\u01B0\u1EE3c x\xE2y d\u1EF1ng t\u1EEB s\u1EF1
+    \u0111\xF3ng g\xF3p c\u1EE7a c\u1EA3 c\u1ED9ng \u0111\u1ED3ng, v\u1EDBi nh\u1EEFng
+    ng\u01B0\u1EDDi gi\xE0u kinh nghi\u1EC7m ch\u1ECBu tr\xE1ch nhi\u1EC7m trang
+    tr\xED m\u1EF9 thu\u1EADt v\xE0 thanh ni\xEAn trai tr\xE1ng th\u1EF1c hi\u1EC7n
+    nh\u1EEFng c\xF4ng vi\u1EC7c n\u1EB7ng nh\u1ECDc h\u01A1n. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7414,7 +7468,21 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Day la Tuong Nha Mo
+  m_text: "T\u01B0\u1EE3ng nh\xE0 m\u1ED3 l\xE0 m\u1ED9t ph\u1EA7n quan tr\u1ECDng
+    c\u1EE7a v\u0103n h\xF3a c\u1ED5 truy\u1EC1n T\xE2y Nguy\xEAn, \u0111\u1EB7c
+    bi\u1EC7t l\xE0 trong c\xE1c nghi l\u1EC5 li\xEAn quan \u0111\u1EBFn nh\xE0 m\u1ED3.
+    Nh\u1EEFng t\u01B0\u1EE3ng n\xE0y kh\xF4ng ch\u1EC9 l\xE0 t\xE1c ph\u1EA9m \u0111i\xEAu
+    kh\u1EAFc \u0111\u1ED9c \u0111\xE1o m\xE0 c\xF2n th\u1EC3 hi\u1EC7n gi\xE1 tr\u1ECB
+    t\xE2m linh s\xE2u s\u1EAFc c\u1EE7a \u0111\u1ED3ng b\xE0o c\xE1c d\xE2n t\u1ED9c
+    thi\u1EC3u s\u1ED1 \u1EDF T\xE2y Nguy\xEAn. Trong qu\xE1 tr\xECnh chu\u1EA9n
+    b\u1ECB cho l\u1EC5 b\u1ECF m\u1EA3, vi\u1EC7c \u0111\u1EA7u ti\xEAn l\xE0 \u0111\u1EBDo
+    t\u01B0\u1EE3ng nh\xE0 m\u1ED3. C\xE1c ngh\u1EC7 nh\xE2n s\u1EBD ch\u1ECDn g\u1ED7
+    t\u1EEB nh\u1EEFng c\xE2y c\xF3 \u0111\u1ED9 tu\u1ED5i v\xE0 k\xEDch th\u01B0\u1EDBc
+    ph\xF9 h\u1EE3p \u0111\u1EC3 \u0111\u1EBDo t\u01B0\u1EE3ng. Tr\u01B0\u1EDBc \u0111\xE2y,
+    ng\u01B0\u1EDDi ta th\u01B0\u1EDDng s\u1EED d\u1EE5ng g\u1ED7 c\xE2y h\u01B0\u01A1ng
+    ho\u1EB7c c\xE2y c\xE0 ch\xEDt \u0111\u1EC3 l\xE0m t\u01B0\u1EE3ng nh\xE0 m\u1ED3
+    v\xEC \u0111\u1ED9 b\u1EC1n v\xE0 m\xF9i th\u01A1m \u0111\u1EB7c tr\u01B0ng c\u1EE7a
+    ch\xFAng. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7448,7 +7516,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -8682,7 +8750,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1407344345}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: a54aee97a56695748b065006ed3696f2, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 9d0645370129ef24f84a84312e45bcaf, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -9106,7 +9174,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5be3e88e1fc4f1f49a88d23994c9f171, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 990af5553028c014ab3ef0a6e1c3f93a, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -9738,7 +9806,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5be3e88e1fc4f1f49a88d23994c9f171, type: 3}
+  m_audioClip: {fileID: 8300000, guid: eae56a37414e7f347b111582e4acefe2, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -11936,7 +12004,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5be3e88e1fc4f1f49a88d23994c9f171, type: 3}
+  m_audioClip: {fileID: 8300000, guid: ba6071c00bee63042a99a5f3969cedfc, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -12548,7 +12616,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5be3e88e1fc4f1f49a88d23994c9f171, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 8abbe476b4c989b48b58a0b2c59e511d, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
